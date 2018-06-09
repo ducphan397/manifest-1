@@ -44,7 +44,5 @@
   </project>
   
   <!-- Common device deps -->
-  
-  <project path="external/sony/boringssl-compat" name="LineageOS/android_external_sony_boringssl-compat"/>
   <project path="external/bson" name="LineageOS/android_external_bson" />
 </manifest>
